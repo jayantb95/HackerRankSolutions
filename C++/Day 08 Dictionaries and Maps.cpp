@@ -26,8 +26,6 @@ int main() {
         cin >> number;
         phone[name] = number;
     }
-    
-    phoneMap::iterator it;
 
     
     while(cin >> name) {
