@@ -21,7 +21,7 @@ int main() {
     cin >> n;
     
     
-    for(int i = 0 ; i < n ; i ++){
+    for(int i = 0 ; i < n ; i++){
         cin >> name;
         cin >> number;
         phone[name] = number;
